@@ -1,0 +1,7 @@
+*.mp4
+*.wav
+*.part
+*.partial
+__pycache__/
+_is/
+TEST/
